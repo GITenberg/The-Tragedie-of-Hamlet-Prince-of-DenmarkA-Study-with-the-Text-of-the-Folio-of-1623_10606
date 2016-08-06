@@ -1,0 +1,45 @@
+_repo: The-Tragedie-of-Hamlet-Prince-of-DenmarkA-Study-with-the-Text-of-the-Folio-of-1623_10606
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  editor:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder victims'' families -- Drama'
+- !lcsh 'Fathers -- Death -- Drama'
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+- !lcsh 'Revenge -- Drama'
+- !lcsh 'Princes -- Drama'
+- !lcsh 'Hamlet (Legendary character) -- Drama'
+- !lcsh 'Denmark -- Drama'
+- !lcsh 'Kings and rulers -- Succession -- Drama'
+- GITenberg
+title: 'The Tragedie of Hamlet, Prince of Denmark
+
+  A Study with the Text of the Folio of 1623'
+url: http://www.gutenberg.org/ebooks/10606
